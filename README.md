@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @AnastasiiaYaitska
 - 🌱  I’ve completed HackYourFuture's Web Development Bootcamp (July, 2023).
-- 👀 I'm open to internship positions and full-time payment positions as a full-stack developer. I am positive, ready for challenges, and curious about learning new things.
+- 👀 I'm open to internship positions and full-time payment positions as a frontend developer. I am positive, ready for challenges, and curious about learning new things.
 - 📫 How to reach me: yaitska.anastasiia@gmail.com
 - 📖 My [Portfolio](https://anastasiia-yaitska-portfolio-dev.vercel.app/)
 - Languages and Tools:
